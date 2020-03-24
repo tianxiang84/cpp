@@ -12,5 +12,5 @@ make (making use of the dll. !!! NOTE: oder of the g++ arguments matters !!!)
 .bin/toyMain 1 2 (try it)
 exit (exit the dev container)
 
-3 Back to the host machine now
+3. Back to the host machine now
 docker system prune
